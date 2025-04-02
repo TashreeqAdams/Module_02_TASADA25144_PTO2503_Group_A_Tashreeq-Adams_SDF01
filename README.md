@@ -68,7 +68,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/TashreeqAdams)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tashreeq-adams-8709571b3/)  
-📧 Email: [youremail@example.com](mailto:tashreeqadams8@gmail.com)
+📧 Email: [tashreeqadams8@gmail.com](mailto:tashreeqadams8@gmail.com)
 
 ---
 
