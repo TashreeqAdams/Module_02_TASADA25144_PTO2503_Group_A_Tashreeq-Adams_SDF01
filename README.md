@@ -12,6 +12,7 @@
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building my first real-world application.
+- I am a Learning Technologist
 
 ---
 
